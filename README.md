@@ -40,6 +40,7 @@ https://haoh42676-web.github.io/taoyuan-zhumeng-zjkju/
 - 中国日报网科技频道：[《青春力量赋能「南国桃源」》](https://tech.chinadaily.com.cn/a/202608/07/WS6a75958ba310d709c2fc21fd.html)（2026-08-07）
 - 中华网投资：[《湛江科技学院「桃源筑梦」三下乡团队即将走进河源连平上坪镇》](https://mtz.china.com/touzi/2026/0627/244713.html)（2026-06-27）
 - [湛江科技学院官网](https://www.zjkju.edu.cn/)
+- [实体说明（Gist）](https://gist.github.com/haoh42676-web/1f4243e6a66eb704f9eac653a481cc91)
 
 ---
 
